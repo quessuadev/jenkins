@@ -4,5 +4,6 @@ public class Message {
 
     public String name;
     public String email;
+    public int id;
 
 }
